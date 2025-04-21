@@ -1,22 +1,25 @@
-# Hi there 👋
+<img src="https://github.com/ianoxwell/ianoxwell/blob/main/Github_profile_header.png" alt="Hero image">
 
-Please enjoy checking out an example of my full stack development skills in NestJs, PostGres, Angular AND React  
-[Recipe Ordering Simplified](https://github.com/ianoxwell/ros)
+# Welcome
 
-## Most commonly used languages in my personal repos  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianoxwell)](https://github.com/ianoxwell/github-readme-stats)
+Motivated, curious, and creative Full Stack Angular / React / .NET web developer with a multidisciplinary background. I specialize in building functional, accessible, and interactive web-based applications that are device-agnostic and meet established business goals. With a strong focus on quality, scalability, and performance, I thrive in environments where collaboration and continuous learning drive innovation.
 
-<!--
-**ianoxwell/ianoxwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Please enjoy checking out a monoRepo example of my full stack development skills in NestJs, PostGres, TypeORM, Angular AND React  
+- [Recipe Ordering Simplified - Overview](https://github.com/ianoxwell/ros)
+- [ROS - API swagger document](https://api-ros.fly.dev/api) - deployed to fly.io
+- [Recipe Ordering Simplified - React](https://ianoxwell.github.io/ros/react-app)
+- [Provisioner's Cookbook - Angular](https://ianoxwell.github.io/ros/angular-app)
 
-Here are some ideas to get you started:
+## Most commonly used languages in my personal repos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ianoxwell&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ianoxwell&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianoxwell&show_icons=true" />
+</picture>
