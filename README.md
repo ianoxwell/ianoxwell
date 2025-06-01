@@ -4,14 +4,25 @@
 
 Motivated, curious, and creative Full Stack Angular / React / .NET web developer with a multidisciplinary background. I specialize in building functional, accessible, and interactive web-based applications that are device-agnostic and meet established business goals. With a strong focus on quality, scalability, and performance, I thrive in environments where collaboration and continuous learning drive innovation.
 
+## Recipe Ordering System - live demo!
+
 Please enjoy checking out a monoRepo example of my full stack development skills in NestJs, PostGres, TypeORM, Angular AND React  
-- [Recipe Ordering Simplified - Overview](https://github.com/ianoxwell/ros)
+- [Recipe Ordering Simplified - Overview](https://github.com/ianoxwell/ros) - see for full stack
 - [ROS - API swagger document](https://api-ros.fly.dev/api) - deployed to fly.io
 - [Recipe Ordering Simplified - React](https://ianoxwell.github.io/ros/react-app)
 - [Provisioner's Cookbook - Angular](https://ianoxwell.github.io/ros/angular-app)
 <br/>
 
-# Skills
+| **Recipes** | **Recipe top** | **Recipe Nutrition** |
+| --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/ianoxwell/ros/main/assets/ros-menu%20page.png" alt="Recipes"> |  <img src="https://raw.githubusercontent.com/ianoxwell/ros/main/assets/ros-recipe-page-top.png" alt="Recipe top"> |  <img src="https://raw.githubusercontent.com/ianoxwell/ros/main/assets/ros-recipe-page.png" alt="Recipes"> | 
+
+## Quickbeans Cafe ordering system
+
+Monorepo full stack NestJs, PostGres, TypeORM, React, Websocket - Work in Progress - watch this space
+- [Quickbeans repo](https://github.com/ianoxwell/QuickBean)
+
+## Skills
 
 | **Languages / Frameworks** | **Tools** | **Skills** |
 | --- | --- | --- |
@@ -29,7 +40,7 @@ Please enjoy checking out a monoRepo example of my full stack development skills
 | Agile | Datadog (Observability) | |
 <br/>
 
-# Contact
+## Contact
 
 - Email - [ianoxwell@gmail.com](mailto:ianoxwell@gmail.com)
 - Phone - [0422 979 293](tel:+61422979293)
