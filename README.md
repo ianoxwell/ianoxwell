@@ -2,7 +2,7 @@
 
 # Welcome
 
-Motivated, curious, and creative Full Stack Angular / React / .NET web developer with a multidisciplinary background. I specialize in building functional, accessible, and interactive web-based applications that are device-agnostic and meet established business goals. With a strong focus on quality, scalability, and performance, I thrive in environments where collaboration and continuous learning drive innovation.
+Purpose-driven Full Stack Developer (Angular / React / .NET) with a strong focus on usability, accessibility, and long-term impact. Drawing on a multidisciplinary background in healthcare, education, and enterprise software, Ian builds scalable, device-agnostic web applications that meet real-world needs. He thrives in collaborative environments that value clean code, thoughtful architecture, and continuous learning. Known for his mentorship, clear communication, and commitment to doing things properly, Ian brings both technical depth and human insight to every project.
 
 ## Recipe Ordering System - live demo!
 
@@ -17,10 +17,14 @@ Please enjoy checking out a monoRepo example of my full stack development skills
 | --- | --- | --- |
 | <img src="https://raw.githubusercontent.com/ianoxwell/ros/main/assets/ros-menu%20page.png" alt="Recipes"> |  <img src="https://raw.githubusercontent.com/ianoxwell/ros/main/assets/ros-recipe-page-top.png" alt="Recipe top"> |  <img src="https://raw.githubusercontent.com/ianoxwell/ros/main/assets/ros-recipe-page.png" alt="Recipes"> | 
 
-## Quickbeans Cafe ordering system
+## Quickbean Cafe ordering system - now live!
 
-Monorepo full stack NestJs, PostGres, TypeORM, React, Websocket - Work in Progress - watch this space
-- [Quickbeans repo](https://github.com/ianoxwell/QuickBean)
+Monorepo full stack NestJs, PostGres, TypeORM, React, Websocket
+- [Quickbean overview and repo](https://github.com/ianoxwell/QuickBean)
+- [Quickbean Checkout](https://quickbeancheckout.vercel.app/downtown-coffee-bar/dcb-checkout/menu)
+- [Quickbean Admin](https://quickbeanadmin.vercel.app/downtown-coffee-bar/home)
+
+<img src="https://raw.githubusercontent.com/ianoxwell/QuickBean/main/assets/Order%20ready%20for%20pickup.png" alt="Instant communication with patron">
 
 ## Skills
 
